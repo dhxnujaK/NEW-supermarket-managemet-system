@@ -121,6 +121,7 @@ namespace DataBase_System1
 
         private void ManageOrders_Load(object sender, EventArgs e)
         {
+            
             populate();
             populateproducts();
             fillcategory();
